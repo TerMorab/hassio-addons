@@ -16,4 +16,3 @@ options:
   message: "Hello world..."
 schema:
   message: "str?"
-image: ghcr.io/TerMorab/hassio-addons/owncloud-{arch}
