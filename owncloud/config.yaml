@@ -3,7 +3,7 @@ name: Home Assistant ownCloud Server
 version: "0.1.0"
 slug: owncloud
 description: ownCloud container running in Home Assistant
-url: https://github.com/TerMorab/owncloud
+url: https://github.com/termorab/owncloud
 startup: initialize
 boot: auto
 arch:
