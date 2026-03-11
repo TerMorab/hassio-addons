@@ -5,7 +5,7 @@ build_from:
 labels:
   org.opencontainers.image.title: "Home Assistant ownCloud Server"
   org.opencontainers.image.description: "ownCloud container running in Home Assistant"
-  org.opencontainers.image.source: "https://github.com/TerMorab/hassio-addons/owncloud"
+  org.opencontainers.image.source: "https://github.com/termorab/hassio-addons/owncloud"
   org.opencontainers.image.licenses: "Apache License 2.0"
 args:
   TEMPIO_VERSION: "2021.09.0"
