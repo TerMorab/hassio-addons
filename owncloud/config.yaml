@@ -16,4 +16,4 @@ options:
   message: "Hello world..."
 schema:
   message: "str?"
-image: ghcr.io/TerMorab/owncloud-{arch}
+image: ghcr.io/termorab/owncloud-{arch}
