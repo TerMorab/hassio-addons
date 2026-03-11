@@ -3,7 +3,7 @@ name: Home Assistant ownCloud Server
 version: "0.1.0"
 slug: owncloud
 description: ownCloud container running in Home Assistant
-url: https://github.com/TerMorab/ha-owncloud-TM
+url: https://github.com/TerMorab/owncloud
 startup: initialize
 boot: auto
 arch:
@@ -16,4 +16,4 @@ options:
   message: "Hello world..."
 schema:
   message: "str?"
-image: "TerMorab/{arch}-addon-ha-owncloud-TM"
+image: "ghcr.io/TerMorab/owncloud-{arch}"
